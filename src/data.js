@@ -4,32 +4,32 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "A web application designed for cataloging movies/books the user has seen/read or wants to see/read.",
-    image: "./project-1.gif",
+    image: "./project-1.png",
     link: "https://blockbuster2024.onrender.com/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Just Another Text Editor",
+    subtitle: "TBD",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "An application for creating and editing text documents.",
+    image: "./project-2.png",
+    link: "https://text-editor-5unh.onrender.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Weather App",
+    subtitle: "API Integration",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "An application that fetches weather data from an API and displays it in a user-friendly format.",
+    image: "./project-3.png",
+    link: "https://nickegg11.github.io/Weather-Dashboard/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Book Search Engine",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A web application that allows users to search for books and save them to their reading list.",
+    image: "./project-4.png",
+    link: "https://book-search-engine-eonp.onrender.com/",
   },
 ];
 
