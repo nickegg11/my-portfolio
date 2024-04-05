@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Blockbuster2024",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A web application designed for cataloging movies/books the user has seen/read or wants to see/read.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://blockbuster2024.onrender.com/",
   },
   {
     title: "React Tracks",
