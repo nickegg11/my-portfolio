@@ -8,7 +8,7 @@ export default function Testimonials() {
             <div className="container px-5 py-24 mx-auto">
                 <UsersIcon className="w-10 inline-block mb-4" />
                 <h1 className="text-3xl font-bold mb-12 text-center">Testimonials</h1>
-                <div className="flex flex-wrap -m-4">
+                {/* <div className="flex flex-wrap -m-4">
                     {testimonials.map((test) => (
                         <div className="p-4 lg:w-1/2" key={test.name}>
                             <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
@@ -28,7 +28,7 @@ export default function Testimonials() {
                             </div>
                         </div>
                     ))}
-                </div>
+                </div> */}
             </div>
         </section>
     );
